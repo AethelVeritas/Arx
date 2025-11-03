@@ -42,3 +42,21 @@ Only really used for small beds, you need to make the bed carriage really stiff 
 
   
 
+## 11/3/2025 - Still More Research   
+
+I mostly did toolhead research. I've decided I'll use the Xol Carriage from the Xol Toolhead, as well as the A4T toolhead, both of which seem really good. I did some research regarding on how to mount the belts to the carriage, and yeah the Archetype clips seem to be the best. For custom toolhead carriages, it's recommend to wrap the belts around some pins, and then make sure 3-4 teeth interlock. Seems to be the most painless way of doing it. I've decided I'm going to use a 20150 axial fan and two 4010 blower fans. That way, if my toolhead sucks (which it probably will), I can reuse the parts to make an A4T or Xol (another reason to use the Xol carriage). I'm also going to use the TZ 2.0 V6 hotend, as it's cheap and decent. I spent a lot of time trying to understand different toolheads and their creator's design choices. But I've now decided, after almost two days of research and browsing that I'll like place the A4T toolhead in the assembly, design the gantry, frame, and everything to that, and then finally make a placeholder/basic toolhead. Toolheads are difficult to make, but can easily be replaced with existing designs. Gantries, frames, and everything else not so much. 
+
+Here are some great resources/references I've found:
+
+https://github.com/Armchair-Heavy-Industries/A4T/tree/main
+https://github.com/Armchair-Heavy-Industries/Xol-Toolhead
+https://github.com/SartorialGrunt0/Awesome-Toolheads
+https://github.com/PrintersForAnts/Voron-Construct
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA4NywicHVyIjoiYmxvYl9pZCJ9fQ==--57a75fe3f7580315bf250902e5311f0d6329881d/image.png)
+
+
+
+
+  
+
